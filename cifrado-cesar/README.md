@@ -15,4 +15,4 @@ PSEUDOCÓDIGO
 
 DIAGRAMA DE FLUJO
 
-![Esta es la imagen del diagrama] (diagrama-cesar.jpg)
+![Esta es la imagen del diagrama] (images/diagrama-cesar.jpg)
